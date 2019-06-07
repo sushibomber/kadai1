@@ -18,6 +18,10 @@
                     {!! Form::text('status', null, ['class' => 'form-control']) !!}
                 </div>
         
+        
+        
+        
+        
                 {!! Form::submit('更新', ['class' => 'btn btn-light']) !!}
         
             {!! Form::close() !!}
